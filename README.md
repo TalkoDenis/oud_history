@@ -80,13 +80,8 @@
 -------
 
 
-  
 
-
-
-
-
-Струнный щипковый плектрный инструмент, широко распространенный, главным образом, в арабских странах, Турции, Иране, а также среди других стран Востока. Слово уд в переводе с арабского буквально означает дерево, древо. Первая информация об Уде дана в произведениях Мосуллу Ибн-Ибрагима (767–849) и позже Абу Насра Фараби (870–950). 
+Струнный щипковый инструмент, широко распространенный, главным образом, в арабских странах, Турции, Иране, а также среди других стран Востока. Слово уд в переводе с арабского буквально означает дерево, древо. Первая информация об Уде дана в произведениях Мосуллу Ибн-Ибрагима (767–849) и позже Абу Насра Фараби (870–950). 
 Историческое значение уда в развитии средневековой культуры Ближнего Востока исключительно велико. Во многих старинных трактатах приводятся предания, из которых следует, что уд имеет древнюю историю. Абдулгадир Мараги в своих комментариях к трактату Китаб аль-адвар Сафиаддина Абдулмомина Урмави сообщает, что музыкальный инструмент был изобретен одним из внуков пророка.
 Письменные источники связывают изобретение уда с именем древнегреческого философа Платона. В усовершенствовании этого инструмента и формировании его звукоряда велика заслуга ученого и музыканта Сафиаддина Урмави. Он прекрасно играл на уде.
 Уд часто изображался в произведениях миниатюрной живописи. 4 струны старинного уда уподобляли четырем стихиям природы: огонь, вода, земля, воздух. Эти струны получили следующие названия:  зир,  масна, маслас, беем соответственно. Позднее к ним была добавлена пятая струна, названная хад.
@@ -96,7 +91,6 @@
 На современный уд навязывается пять парных и одна одинарная струна. При исполнении, корпус уда ставится на правое колено. Струны, изготовленные из шелковой нити, кишок или специального капрона настраиваются в квартовой относительности.
 Уд состоит из грушевидного корпуса, грифа и головки на которой крепятся колки. Корпус инструмента изготавливается методом сборки из нескольких частей, для которых используются также такие виды дерева как сандал, орех и груша. Деревянные клепки для корпуса, вырезаемые толщиной в 5 мм, предварительно нагревают, и с помощью специальных колодок им придают согнутую форму, после чего их собирают по частям. Верхняя дека имеет толщину 5 мм и изготавливается из сосны. Общая длина инструмента – 850 мм, ширина корпуса – 350 мм, длина – 480 мм, высота – 200 мм. 
 
-Диапазон уда охватывает звуки от ми большой октавы до фа второй октавы. В состав оркестров и ансамблей традиционных инструментов уд был введен в качестве солирующего и аккомпанирующего инструмента.
 
 
 
@@ -359,14 +353,72 @@ The Oud has distinctive ornamentations and carvings and is adorned with precious
 
 -----------------
 
+A Short History of the Oud, “King of Instruments”
 
+      If the world of Arabic music were a kingdom, this instrument would undoubtedly be its bona fide ruler. He has often been called the "king of instruments" and rightly so as the iconic tones of the sound he produces has become a symbol of the world of traditional Arabic music. Literally meaning ‘branch’ or ‘flexible rod,’ the oud is the main instrument of a piano-like composition. There are theories that the oud is the predecessor of the guitar, evolving from the Persian man, who then made his way to Europe via North Africa.
+
+     The presence of oud in the Arab world can even be traced back to the 2nd and 1st centuries BC, and its influence cannot be denied in the development of music in the Arab world.
+
+     As for the invention of oud, there are many different accounts with some even making debuts in religious texts. The biblical story of the instrument states that Lamak, a direct descendant of Cain, was the one who invented it. According to the story, Lamak's son died and his body was hung from a tree. After a long time, his body decomposed and all that was left was his skeleton, which looked like the shape of an egg.
+
+     However, a more likely theory behind the invention or creation of the instrument is found in texts from the Arab world of the 14th century. Abu Al Fida and Abu Al-Walid Ibn Shihnah were two prominent writers who believed that the origin of -Oud may have been placed somewhere between 241 and 72 BC, under the rule of King Shapur.
+
+     Ibn Shinhah believed that the development of the instrument was a process that was facilitated by the relationship that the religious offices had with the accompanying musicians. There are also theories that support the migration of oud from Asian kingdoms somewhere before the 7th century, suggesting that it evolved from a similar Chinese instrument known as the guzheng.
+
+     Its beginning is certainly something that scholars have yet to point out despite its appearance in texts even from the 9th century E.C.; however, its significance cannot be disputed. The oud is probably the most commonly used instrument in Arabic music.
+
+     Oud is traditionally made of light wood. It has a short neck and is connected to a large round body that serves as the base of the instrument. Its shape is somewhat similar to the shape of a pear.
+
+     Although there are many variations, the acoustic string instrument is typically built with 11 strings, 10 of which are connected together with the 11, and the lowest note is played on its own, usually as a melodic type metronome. Similar to other string instruments, oud strings are spirally reinforced as they are twisted very tightly and then attached to give it its unique sound.
+
+     However, unlike almost all string instruments that are typically found with a large singular hole in the center of the base body, the oud can have up to three holes, varying in size. The three holes are a much more traditional sight, each symbolizing celestial bodies. The larger one exists in the center as the sun, as the two smaller holes are representations of the moon and produce a higher pitch. Today, oud can be found in all genres of Arabic music, from folk to classical, to pop. Its popularity has increased not only in the Arab World but also in the West.
+
+
+
+
+
+
+
+What is the Oud?
+The oud, an iconic pear-shaped, short-necked instrument, stands as a testament to the rich musical heritage of the Middle East. This stringed instrument, often featuring 11 strings arranged in five pairs with an additional single string, is renowned for its fretless fingerboard, allowing for the intricate expression of maqam and the art of tuning the oud. The oud is traditionally played with a plectrum, known as a risha, which helps to produce its distinctive sound quality. Many consider the oud to be a lute, but it has many unique features.
+
+Historical Significance of the Oud
+The oud's origins trace back to ancient times, with its ancestor, the barbat, having a presence in Persia (Iran) centuries ago, highlighting the rich history of the oud. Over time, the instrument evolved and spread throughout the Arab world, becoming an integral part of Middle Eastern music. The oud is considered a vital component of classical Arab music and plays a crucial role in preserving cultural traditions, often associated with the sultan instrument. Its historical importance is evident in its presence in various musical genres, from classical compositions to folk melodies.
+
+Oud in Contemporary Music
+While firmly rooted in tradition, the oud continues to thrive in contemporary music. Many modern musicians are now interested in learning to play the oud. The instrument's versatility allows it to seamlessly blend with various genres, including world music, jazz, and even Western music. Some musicians are even experimenting with electric ouds, pushing the boundaries of its sound. These electric ouds are being used to create unique soundscapes, ensuring that the oud remains a relevant and evolving instrument in the modern musical landscape. Now you can even buy an oud online.
+
+Types of Oud
+
+
+Arabic Oud
+The arabic oud is arguably the most recognized and widely used type of oud. Often characterized by its warm, resonant tone, the arabic oud is the cornerstone of classical arab music and many other middle eastern music genres. Oud makers meticulously handcraft each oud, paying close attention to the selection of woods and the intricate details of the design. This string instrument typically features 11 strings arranged in five pairs of strings, with a single bass string. This allows for a broad tonal range and the ability to effectively express the nuances of maqam. When you buy an oud, you will often find these arabic ouds. The term for the oud in arabic is العود.
+
+Turkish Oud
+The turkish oud, while sharing similarities with the arabic oud, possesses its own distinct characteristics. Generally smaller in size and with a slightly brighter timbre than its arabic counterpart, the turkish oud often features a thinner soundboard, which contributes to its unique sound quality, reflecting its rich history of the oud. Some oud players may prefer the turkish oud for its enhanced responsiveness and clarity, particularly well-suited for certain musical styles. The craftsmanship involved in creating turkish ouds reflects the distinct turkish musical traditions. Many prefer its higher pitch than the arabic oud. Although you may not find it in your local music store, you can still buy an oud online.
+
+Other Variations of the Oud
+Beyond the arabic and turkish oud, a variety of ouds exists, each reflecting the unique musical traditions of its region, with some being favored by sultans. The iraqi oud, known for its deep, mellow tone, is a prominent example, often used in iraqi classical music. The persian oud, or barbat, represents the historical ancestor of the modern oud. It is sometimes described as an iranian lute, connecting it to its ancient origins in iran and persian musical heritage. Other variations, like the egyptian oud and the syrian oud, also display regional nuances in design and sound. When choosing an oud, you might find that each different oud offers a unique playing experience. Musicians may even experiment with an electric oud to create new sounds. With a plectrum (risha), oud strings can be made to sing across eastern music. Even a first oud can be a delight to play, offering an acoustic experience that captivates beginners and experts alike. These stringed instruments are often decorated with intricate inlays around the tuning pegs. The pear-shaped body of the oud instrument is made with the utmost care.
+
+Playing the Oud
+oud instrument
+
+Basic Techniques to Play the Oud
+To begin to play the oud, a musician must first understand the instrument's unique features. The fretless fingerboard of the oud instrument allows for nuanced intonation and the expression of maqam, making it a favorite in arabic music. The oud is held comfortably against the player's body, and the plectrum, or risha, is used to strike the strings. Beginners should focus on developing a consistent and controlled strumming technique to produce a clear and resonant sound quality. Practicing scales and simple melodies will help to build finger strength and coordination and allow you to truly play the oud. When you play the oud, you want to remember your posture.
+
+Understanding Oud Strings
+Understanding oud strings is crucial for achieving the desired sound quality. Typically, an arabic oud features 11 strings arranged in five pairs of strings, with an additional single bass string. These strings are usually made of nylon or gut, with different gauges contributing to the instrument's tonal range. When you buy an oud, it is a good idea to also buy oud strings. Oud players regularly change their oud strings. Experimenting with different oud strings' brands and tensions can help players find the perfect sound for their arabic oud. Correct tuning of the strings is also essential for producing harmonious melodies.
+
+Common Styles and Genres
+The oud's versatility allows it to be used in a wide range of musical styles and genres. From classical arab music to contemporary world music, the oud instrument seamlessly adapts to different musical contexts. In middle eastern music, it is often used to perform intricate melodies and improvisations based on maqam. The oud can also be found in genres such as jazz, folk, and even western music, where its unique timbre adds a distinctive flavor. Some musicians are even experimenting with the electric oud to explore new sonic possibilities. Playing the oud is also a way to connect with the past. Its sound quality and the way you play the oud is important.
+
+--------------------
 
 
 https://en.wikipedia.org/wiki/Oud
 
-https://www.sultaninstrument.com/blogs/oud-instrument-information/history-of-oud-instrument
 
-https://earlymusicmuse.com/oud/
+
 
 https://www.torontoguitarschool.com/the-oud-a-journey-through-time-and-culture/
 
@@ -388,7 +440,7 @@ https://www.birrafragrances.com/blogs/news/the-history-of-oud
 
 https://www.ebsco.com/research-starters/music/ud-instrument
 
-https://egyptiancentermakan.wordpress.com/oud/
+
 
 
 
